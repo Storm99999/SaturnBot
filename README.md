@@ -10,3 +10,6 @@ The Discord Bot used for Saturn.
 
 # Bot
 * You are not allowed to use this bot unless you give credits to us.
+
+
+# New Update Soon
